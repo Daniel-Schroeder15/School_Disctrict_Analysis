@@ -20,7 +20,7 @@ The PyCitySchools_Challenge.ipynb has the data replaced with NaN (After dataset)
 ## Challenge summary
 After replacing the reading and math scores for the Thomas High School 9th graders, I recreated the district and school summary DataFrames. 
 
-After replacing the data with nan:
+After replacing the data with Not A Number(NaN):
 - district Average Math Score decreased from 79.0 to 78.9.
 - district Average Reading Score was unchanged.
 - Percent passing math decreased from 75% to 74%
